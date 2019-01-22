@@ -1,4 +1,4 @@
 # chatroom
 
-# Description
+## Description
 A simple version of chatroom runnning on command prompt.
